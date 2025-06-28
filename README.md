@@ -4,8 +4,8 @@ This repository contains the legal documents for the TL;DAI mobile app.
 
 ## Documents
 
-- **Privacy Policy**: [View Online](https://yashvardhan.github.io/tldai-legal/)
-- **Terms of Service**: [View Online](https://yashvardhan.github.io/tldai-legal/)
+- **Privacy Policy**: [View Online](https://yash2002vardhan.github.io/tldai-legal/)
+- **Terms of Service**: [View Online](https://yash2002vardhan.github.io/tldai-legal/)
 
 ## Contact
 
